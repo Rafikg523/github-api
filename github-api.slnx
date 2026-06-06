@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="github-api/github-api.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
